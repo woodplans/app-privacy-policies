@@ -1,0 +1,547 @@
+[
+  {
+    "name": "VisiNews IPTV",
+    "slug": "visinews-iptv",
+    "category": "Media Player"
+  },
+  {
+    "name": "Nexa IPTV",
+    "slug": "nexa-iptv",
+    "category": "Media Player"
+  },
+  {
+    "name": "NotaKu Pro",
+    "slug": "notaku-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Kasir Mini",
+    "slug": "kasir-mini",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "FollowUp WA",
+    "slug": "followup-wa",
+    "category": "Business Tools"
+  },
+  {
+    "name": "Absen Lokasi",
+    "slug": "absen-lokasi",
+    "category": "Location Tools"
+  },
+  {
+    "name": "UkurTanah GPS",
+    "slug": "ukurtanah-gps",
+    "category": "Location Tools"
+  },
+  {
+    "name": "DigiKatalog",
+    "slug": "digikatalog",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Diskon Dekat",
+    "slug": "diskon-dekat",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Cek HargaGo",
+    "slug": "cek-hargago",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Katalog TokoKu",
+    "slug": "katalog-tokoku",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Belanja Bulanan",
+    "slug": "belanja-bulanan",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Hitung HPP Kuliner",
+    "slug": "hitung-hpp-kuliner",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Review Jajan",
+    "slug": "review-jajan",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Skin Routine",
+    "slug": "skin-routine",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Makeup Look Book",
+    "slug": "makeup-look-book",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Salon Booking",
+    "slug": "salon-booking",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Warna RambutKu",
+    "slug": "warna-rambutku",
+    "category": "Business Tools"
+  },
+  {
+    "name": "Langkah Sehat",
+    "slug": "langkah-sehat",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Minum AirKu",
+    "slug": "minum-airku",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Tidur Rapi",
+    "slug": "tidur-rapi",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Gym Planner",
+    "slug": "gym-planner",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Kalori Rumahan",
+    "slug": "kalori-rumahan",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "RenovasiKu",
+    "slug": "renovasiku",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "CatRumah",
+    "slug": "catrumah",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Inventaris Rumah",
+    "slug": "inventaris-rumah",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Tukang Panggil",
+    "slug": "tukang-panggil",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Love Note",
+    "slug": "love-note",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Tempat Kencan",
+    "slug": "tempat-kencan",
+    "category": "Location Tools"
+  },
+  {
+    "name": "Event Checklist",
+    "slug": "event-checklist",
+    "category": "Event Tools"
+  },
+  {
+    "name": "Undangan Digital",
+    "slug": "undangan-digital",
+    "category": "Event Tools"
+  },
+  {
+    "name": "PanitiaKu",
+    "slug": "panitiaku",
+    "category": "Event Tools"
+  },
+  {
+    "name": "Rundown Pro",
+    "slug": "rundown-pro",
+    "category": "Event Tools"
+  },
+  {
+    "name": "Ringkas Buku",
+    "slug": "ringkas-buku",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Kamus Istilah",
+    "slug": "kamus-istilah",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Jadwal Kelas",
+    "slug": "jadwal-kelas",
+    "category": "Business Tools"
+  },
+  {
+    "name": "Guru PrivatGo",
+    "slug": "guru-privatgo",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Belajar 30Menit",
+    "slug": "belajar-30menit",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Berita LokalKu",
+    "slug": "berita-lokalku",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Proposal Cepat",
+    "slug": "proposal-cepat",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Client Note",
+    "slug": "client-note",
+    "category": "Business Tools"
+  },
+  {
+    "name": "Budget Gaji",
+    "slug": "budget-gaji",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "CicilanKu",
+    "slug": "cicilanku",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Laporan UMKM",
+    "slug": "laporan-umkm",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Sketsa Harian",
+    "slug": "sketsa-harian",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Logo Inspirasi",
+    "slug": "logo-inspirasi",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Pose Guide",
+    "slug": "pose-guide",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Foto ProdukKu",
+    "slug": "foto-produkku",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Belajar GitarKu",
+    "slug": "belajar-gitarku",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Podcast Note",
+    "slug": "podcast-note",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Agenda Warga",
+    "slug": "agenda-warga",
+    "category": "Business Tools"
+  },
+  {
+    "name": "Donasi Lokal",
+    "slug": "donasi-lokal",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Kuliner Dekat",
+    "slug": "kuliner-dekat",
+    "category": "Location Tools"
+  },
+  {
+    "name": "Catatan Trip",
+    "slug": "catatan-trip",
+    "category": "Location Tools"
+  },
+  {
+    "name": "Wisata Budget",
+    "slug": "wisata-budget",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Parkir Ingat",
+    "slug": "parkir-ingat",
+    "category": "Location Tools"
+  },
+  {
+    "name": "Antrian Klinik",
+    "slug": "antrian-klinik",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Lari Bareng",
+    "slug": "lari-bareng",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Statistik Main",
+    "slug": "statistik-main",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "TOEFL Practice",
+    "slug": "toefl-practice",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Skripsi Helper",
+    "slug": "skripsi-helper",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Konten Prompt",
+    "slug": "konten-prompt",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Bisnis Prompt",
+    "slug": "bisnis-prompt",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Judul Skripsi",
+    "slug": "judul-skripsi",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Ruqyah Audio",
+    "slug": "ruqyah-audio",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Detoks Gawai",
+    "slug": "detoks-gawai",
+    "category": "Business Tools"
+  },
+  {
+    "name": "AirMinum Reminder",
+    "slug": "airminum-reminder",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Laporan Proyek",
+    "slug": "laporan-proyek",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "TestimoniKu",
+    "slug": "testimoniku",
+    "category": "Business Tools"
+  },
+  {
+    "name": "VoiceOverKu",
+    "slug": "voiceoverku",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Subtitle Otomatis",
+    "slug": "subtitle-otomatis",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Kartu Nama Digital",
+    "slug": "kartu-nama-digital",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Home Cleaning",
+    "slug": "home-cleaning",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Tukang Online",
+    "slug": "tukang-online",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "AntrianKu",
+    "slug": "antrianku",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Tumbuh Anak",
+    "slug": "tumbuh-anak",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Baca TeksKu",
+    "slug": "baca-teksku",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Tombol Darurat",
+    "slug": "tombol-darurat",
+    "category": "Location Tools"
+  },
+  {
+    "name": "Suara KeTeks",
+    "slug": "suara-keteks",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "UMKM Command Center",
+    "slug": "umkm-command-center",
+    "category": "Business Tools"
+  },
+  {
+    "name": "WhatsApp Sales CRM Pro",
+    "slug": "whatsapp-sales-crm-pro",
+    "category": "Business Tools"
+  },
+  {
+    "name": "AI Content Planner Pro",
+    "slug": "ai-content-planner-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Meta Ads Helper Pro",
+    "slug": "meta-ads-helper-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Restaurant Manager Pro",
+    "slug": "restaurant-manager-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Beauty Clinic Manager",
+    "slug": "beauty-clinic-manager",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Contractor Field Report",
+    "slug": "contractor-field-report",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Civil Engineering Calculator Pro",
+    "slug": "civil-engineering-calculator-pro",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Auto Service Manager",
+    "slug": "auto-service-manager",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Fleet Maintenance Pro",
+    "slug": "fleet-maintenance-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Personal Finance Premium",
+    "slug": "personal-finance-premium",
+    "category": "Finance Tools"
+  },
+  {
+    "name": "Baby MPASI Planner Pro",
+    "slug": "baby-mpasi-planner-pro",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Travel Itinerary Pro",
+    "slug": "travel-itinerary-pro",
+    "category": "Location Tools"
+  },
+  {
+    "name": "Accessibility Assistant Pro",
+    "slug": "accessibility-assistant-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Smart Document Scanner Pro",
+    "slug": "smart-document-scanner-pro",
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Civil Drawing Library Pro",
+    "slug": "civil-drawing-library-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Home Care Tools Pro",
+    "slug": "home-care-tools-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "DWG Sipil Premium",
+    "slug": "dwg-sipil-premium",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Gambar Rumah Arsitek Pro",
+    "slug": "gambar-rumah-arsitek-pro",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Detail Konstruksi Pro",
+    "slug": "detail-konstruksi-pro",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "Sipil E-Library Pro",
+    "slug": "sipil-e-library-pro",
+    "category": "Construction Tools"
+  },
+  {
+    "name": "LH E-Library",
+    "slug": "lh-e-library",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Civil Formula & Ebook Pro",
+    "slug": "civil-formula-ebook-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Alkes Pro Indonesia",
+    "slug": "alkes-pro-indonesia",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Medical Device Guide Pro",
+    "slug": "medical-device-guide-pro",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Klinik Equipment Planner",
+    "slug": "klinik-equipment-planner",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Ebook Kesehatan Premium",
+    "slug": "ebook-kesehatan-premium",
+    "category": "Health and Wellness"
+  },
+  {
+    "name": "Interior Equipment Pro",
+    "slug": "interior-equipment-pro",
+    "category": "Productivity Tools"
+  },
+  {
+    "name": "Aksara Sunda Pintar Pro",
+    "slug": "aksara-sunda-pintar-pro",
+    "category": "Education Tools"
+  },
+  {
+    "name": "Aksara Jawa Pintar Pro",
+    "slug": "aksara-jawa-pintar-pro",
+    "category": "Business Tools"
+  }
+]
